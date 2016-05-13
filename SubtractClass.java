@@ -1,5 +1,5 @@
 public SubtractClass {
-	public int subtract(int x, int y) {
+	public int modular(int x, int y) {
 		return x - y;
 	}
 }
