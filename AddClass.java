@@ -1,5 +1,5 @@
 public class AddClass {
-    public int add(int x, int y) {
+    public int addAndMultiply(int x, int y) {
         return x + y;
     }
 }
