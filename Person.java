@@ -4,4 +4,8 @@ public class Person {
 
 	public Person(String name) {
 	}
+
+	public void getAge() {
+		return this.age;
+	}
 }
